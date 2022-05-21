@@ -1,0 +1,9 @@
+[submodule "cpp"]
+	path = cpp
+	url = git@github.com:pedrobarbeira/cpp.git
+[submodule "ltwfeup"]
+	path = ltwfeup
+	url = git@github.com:pedrobarbeira/ltwfeup.git
+[submodule "c"]
+	path = c
+	url = https://github.com/pedrobarbeira/c
