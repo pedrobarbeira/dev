@@ -1,4 +1,3 @@
-#!/bin/bash
 ###VARDEFINITION###
 path="../c/commands"
 cmd=".commands"
