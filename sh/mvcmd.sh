@@ -1,3 +1,6 @@
 #!/bin/bash
+###VARDEFINITION###
 path="../c/commands"
-cp $path/compile ~/.commands
+cmd=".commands"
+###COMMANDS###
+cp $path/compile ~/$cmd
