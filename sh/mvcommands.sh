@@ -1,1 +1,0 @@
-sudo cp command ~/.commands
