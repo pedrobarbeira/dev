@@ -1,0 +1,16 @@
+Implement following Data Structures:
+ - Vector
+ - LinkedList
+    - Doubly linked list
+ - Stack
+ - Queue
+ - Binary Tree
+     - BST
+     - AVL tree
+     - Red-black tree
+ - Priority Queue
+ - Hashmap
+ - Disjoint Set
+ - Graph
+ * Include iterators
+ * Include tree and graph algorithms

@@ -1,0 +1,11 @@
+Make a spellchecker in C connected to sqlite3 database
+- Features:
+  *Text splitter - splits text from document which is orthographically correct
+                   and stores it in text file
+                     *can extend to csv
+  *Word Loader   - loads words into database
+  *Spellcheck    - checks if word is in database
+		     *asks if user wants to add it
+  *Autocorrect   - keeps track of most common mistakes per word
+ 		     *eventually guess based on probability
+  *Bracketcheck  - checks for unclosed/unopened brackets in document
