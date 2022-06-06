@@ -1,0 +1,43 @@
+Idea: ToDo List
+> Tech Stack
+  * HTML
+  * CSS
+  * PHP
+  * JS
+  * SQlite3
+  *AJAX
+
+> Extensions:
+  * command line (shell) app
+  * mobile app
+  
+> Features:
+  * "File system"
+    - Project->Feature->Task
+  * Priorities
+  * Metrics
+    - Average times
+    - Rate of completion
+  * Multi-user
+  * Git automatization
+    - For command line app
+      . try to figure out if this can be done on server
+      
+> Project Map:
+  * Design and implement Database
+  * Design webpage
+    - Base package:
+      . File System
+      . Priorities
+  * Implement webpage
+  * Design cli
+  * Implement cli
+    - Figure out how to connect cli to server db
+  * Add Features:
+    - Multi-user
+  * Host on FEUP
+  * Add Features:
+    - Metrics
+    - Git automation on cli
+  * Alpha test
+  * Extend to mobile
